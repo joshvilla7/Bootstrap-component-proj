@@ -1,0 +1,45 @@
+body {
+    background-image: url('/images/bg-intro-desktop.png');
+    background-color:  hsl(0, 100%, 74%) ;
+}
+
+#outter {
+    margin-top: 55px;
+
+}
+
+h1 {
+    font-size: 4rem;
+    font-family: 'Poppins';
+    margin-bottom: 40px;
+    padding-top: 55px;
+    color: aliceblue;
+}
+
+p {
+    font-family: 'Roboto';
+    font-size: 1.3rem;
+    color: aliceblue;
+}
+
+#byclicking {
+    font-family: 'Roboto';
+    font-size: 14px;
+    padding-top: 8px;
+    color:  hsl(246, 25%, 77%);
+}
+
+span {
+    color: hsl(0, 100%, 74%);
+}
+
+button:hover {
+    cursor: pointer;
+    box-shadow: 0 1px 3px black;
+}
+
+#formbox {
+    margin-right: 70px;
+    margin-top: 30px;
+    border-radius: 15px;
+}
