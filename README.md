@@ -26,7 +26,7 @@ This is a screenshot of the challenge template.
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://joshvilla7.github.io/Bootstrap-component-proj/)
+- Live Site URL: [Click Here](https://joshvilla7.github.io/Bootstrap-component-proj/)
 
 
 
